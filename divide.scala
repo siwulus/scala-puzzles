@@ -1,4 +1,4 @@
-object IfExercise2 {
+object DividePuzzle {
     
     def main(args: Array[String]):Unit = {
         
