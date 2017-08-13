@@ -1,4 +1,4 @@
-object DividePuzzle {
+object Max1Puzzle {
 
   def main(args: Array[String]): Unit = {
 
