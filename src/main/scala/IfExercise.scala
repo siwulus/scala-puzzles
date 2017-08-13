@@ -19,27 +19,27 @@ object IfExercise {
     def calculate(x: Int, y: Int): Int = ???
 }
 
-def sum (i: Int, j: Int): Int=  i + j
-
-def min (i: Int, j: Int):Int = i - j
-
-val i = 5
-val j = 10
- 
-if (i < 10) {min (i,  j)
-} else
-sum (i , j ) 
-
-// wersja 2
-
-def sum (i: Int, j: Int): Int=  i + j
-
-def min (i: Int, j: Int):Int = i - j
-
-val i = 5
-val j = 10
- 
-if (i < 10) { 
-println ( min (i,  j))
-} else
-println ( sum (i , j ) )
+//def sum (i: Int, j: Int): Int=  i + j
+//
+//def min (i: Int, j: Int):Int = i - j
+//
+//val i = 5
+//val j = 10
+//
+//if (i < 10) {min (i,  j)
+//} else
+//sum (i , j )
+//
+//// wersja 2
+//
+//def sum (i: Int, j: Int): Int=  i + j
+//
+//def min (i: Int, j: Int):Int = i - j
+//
+//val i = 5
+//val j = 10
+//
+//if (i < 10) {
+//println ( min (i,  j))
+//} else
+//println ( sum (i , j ) )
