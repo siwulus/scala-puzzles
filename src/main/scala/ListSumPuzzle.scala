@@ -1,4 +1,4 @@
-object DividePuzzle {
+object ListSumPuzzle {
 
   def main(args: Array[String]): Unit = {
 
