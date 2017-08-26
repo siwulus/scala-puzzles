@@ -10,5 +10,7 @@ object ListSumPuzzle {
   /**
     * Napisz funkcje ktora przyjmuje liste liczb calkowitych i  zwraca ich sume
     */
-  def sum(list: List[Int]): Int = ???
+  def sum(list: List[Int]): Int = {x {
+
+  }
 }

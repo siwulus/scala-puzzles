@@ -9,6 +9,8 @@ object DividePuzzle {
     println(divide(10, 0).getOrElse("dzielenie niedozwolone"))
 
     //podziel dwie liczby i dodaj do nich 5
+
+
     println(divide(20, 6).map(result => result + 5))
     println(divide(20, 0).map(result => result + 5))
 
